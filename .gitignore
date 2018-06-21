@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.lyx\~
+.pdf
+
+/Data
+/Cache
+/js
+inst/doc

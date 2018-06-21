@@ -1,0 +1,17 @@
+Package: shinyDataMapping
+Type: Package
+Title: A shinyEvents GUI that helps to map data frame columns and values to other names
+Version: 0.0.1
+Date: 2017-04-27
+Author: Sebastian Kranz
+Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
+Description: A shiny GUI that helps to map data frame columns and values to other names
+License: GPL >= 2.0
+Depends:
+  dplyr, dplyrExtras, 
+  shiny, 
+  shinyEvents,
+  shinyAce,DT
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
